@@ -11,14 +11,12 @@ body {
 
 h1 {
   text-align: center;
-  margin-top: 25px;
-  margin-bottom: 15px;
-  font-size: 40px;
+  margin: 20px 30%;
+  font-size: 30px;
   letter-spacing: 5px;
 }
 
 /* loader */
-
 .loader {
   position: fixed;
   top: 0;
